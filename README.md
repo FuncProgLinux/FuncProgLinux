@@ -39,13 +39,8 @@ Questions, issues, contact, send an email to: `softwarelibre@urutau-ltd.org`, li
 
 ## projects
 
-Software under [Urutaú Limited](https://urutau-ltd.org) — a small Free Software
+Software under [Urutaú Limited](https://urutau-ltd.org) — a small & closed Free Software
 collective focused on Latin America.
-
-- `codeberg.org/urutau-ltd/aile`       Go web micro-library built on net/http
-- `codeberg.org/urutau-ltd/vexilo`     HTMX/HTML mechanics library for Go
-- `codeberg.org/urutau-ltd/bellbird`   SOCKS5 proxy w/ post-quantum crypto (ML-KEM)
-- `codeberg.org/urutau-ltd/nyctibius`  Private GNU Guix channel (public mirror)
 
 Primary forge: [sl.urutau-ltd.org/urutau-ltd](https://sl.urutau-ltd.org/urutau-ltd)
 
