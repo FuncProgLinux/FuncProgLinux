@@ -31,7 +31,8 @@ I'm not on:
 - Ministry of Abundance (`in/💼`)
 - Ministry of Love (🐘/🦋)
 - Ministry of Truth (𝕏/TkTk)
-- I got nothing to hide, I simply **hate you**r style.
+
+I got nothing to hide, I simply **hate you**r style.
 
 Questions, issues, contact, send an email to: `softwarelibre@urutau-ltd.org`, like the good ol' times.
 
